@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    padding: 50px;
+    font-size: 40px;
+}
+
+ul, form input, button, #sec_task {
+    font-size: 30px;
+    padding: 10px;
+    margin: 12px;
+}
+
